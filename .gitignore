@@ -108,6 +108,14 @@ ipython_config.py
 # poetry.lock
 # poetry.toml
 
+# C++
+*.o
+*.out
+*.exe
+*.dSYM/
+*.stackdump
+a.out
+
 # pdm
 #   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
 #   pdm recommends including project-wide configuration in pdm.toml, but excluding .pdm-python.
